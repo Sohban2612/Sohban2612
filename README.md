@@ -13,7 +13,7 @@
 ## Profile views: ![Profile Counter](https://profile-counter.glitch.me/Sohban2612/count.svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&height=100&lines=Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&height=100&lines=Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;" alt="Typing SVG" />
 </div>
 
 🌱 I'm currently learning **Node.js**
@@ -73,7 +73,7 @@ Movie Pass is an innovative project that simplifies the process of booking movie
   - MONGO
 
 - **Links:**
-  - [App Store](https://movie-booking-solar-sparks.netlify.app/pages/home)
+  - [Live Demo](https://movie-booking-solar-sparks.netlify.app/pages/home)
   - [GitHub Repository](https://github.com/ANKIT9761/Movie-Booking-System)
 
 
