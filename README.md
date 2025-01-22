@@ -1,4 +1,4 @@
-# Hi 👋, I'm YOUR_NAME
+# Hi 👋, I'm Sohban Ahmad
 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1555066931-bf19f8fd1085?auto=format&fit=crop&w=1200&h=400&q=80" alt="Coding workspace" />
@@ -16,17 +16,66 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&height=100&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-🔭 I'm currently working on **[Project Name](project-link)**
-
-🌱 I'm currently learning **Node.js, Next.js**
+🌱 I'm currently learning **Node.js**
 
 👯 I'm looking to collaborate on **Full Stack Projects**
 
 👨‍💻 All of my projects are available at **[Portfolio Link](https://sohban-ahmad.netlify.app/)**
 
-💬 Ask me about **MERN Stack, Python-DSA, React, JavaScript**
+💬 Ask me about ** Python-DSA, React, JavaScript**
 
 📫 How to reach me: **Sohbanahmad42gmail.com**
+
+
+##  Projects
+
+### 1. Tech Time Machine 
+
+Tech Time Machine is an interactive project that delves into the evolution of the web from 1990 to 2030, highlighting its transformation across decades. It showcases key milestones, design trends, and technological advancements that have shaped the web as we know it. The project also imagines an exciting vision of how the web might evolve in the future, offering users a glimpse into the possibilities of the next decade.
+
+- **Tech Stack:**
+  - HTML
+  - CSS
+  - JAVASCRIPT
+
+
+- **Links:**
+  - [Live Demo](https://techtimemachine.netlify.app/pages/login.html)
+  - [GitHub Repository](https://github.com/official-shashank/TechTimeMachine)
+
+---
+
+### 2. Reebok Clone 
+
+Reebok Clone is a comprehensive project that recreates the design and functionality of the official Reebok website. It offers features such as seamless product browsing, category filtering, and a responsive interface, ensuring an optimized shopping experience for users. This project emphasizes attention to detail in replicating a professional e-commerce platform while showcasing expertise in web development and user experience design.
+
+- **Tech Stack:**
+  - HTML
+  - CSS
+  - JAVASCRIPT
+  - FIREBASE
+
+
+- **Links:**
+  - [Live Demo](https://reebokclones.netlify.app/)
+  - [GitHub Repository](https://github.com/Ranjeet7875/Backend_Busters_B41)
+
+---
+
+### 3. Movie Booking System
+
+Movie Pass is an innovative project that simplifies the process of booking movie tickets. It provides users with an easy-to-use platform where they can browse and select their preferred theaters, locations, and showtimes. By focusing on convenience and usability, Movie Pass ensures a smooth experience for users, making it easier than ever to plan a movie outing. The project highlights efficient design and functionality tailored for movie enthusiasts.
+
+- **Tech Stack:**
+  - HTML
+  - CSS
+  - JAVASCRIPT
+  - MONGO
+
+- **Links:**
+  - [App Store](https://movie-booking-solar-sparks.netlify.app/pages/home)
+  - [GitHub Repository](https://github.com/ANKIT9761/Movie-Booking-System)
+
 
 ## 🏆 Achievements
 
@@ -54,8 +103,8 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,git,docker" alt="Tech Stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,redux,postgresql,python,aws,firebase,vercel" alt="More Skills" />
+  <img src="https://skillicons.dev/icons?i=react,mongodb,js,html,css,git,netlify" alt="Tech Stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,redux,mysql,python,firebase" alt="More Skills" />
 </div>
 
 ## 🏅 Badges
@@ -64,12 +113,6 @@
   <img src="https://img.shields.io/github/followers/Sohban2612?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Sohban2612?style=social" alt="GitHub stars" />
   <img src="https://img.shields.io/github/commit-activity/m/Sohban2612/Sohban2612" alt="Commit activity" />
-</div>
-
-## 📈 Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/Sohban2612?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FKolkata" alt="Detailed Metrics" />
 </div>
 
 ## 🌐 Connect with me:
