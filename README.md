@@ -104,7 +104,7 @@ Movie Pass is an innovative project that simplifies the process of booking movie
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,mongodb,js,html,css,git,netlify" alt="Tech Stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,chakra,mysql,python,firebase" alt="More Skills" />
+  <img src="https://skillicons.dev/icons?i=tailwind,chakraui,mysql,python,firebase" alt="More Skills" />
 </div>
 
 ## 🏅 Badges
